@@ -1,8 +1,8 @@
 {
-  "name": "app",
-  "short_name": "app",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "name": "Pay",
+  "short_name": "Pay",
+  "theme_color": "#009be3",
+  "background_color": "#009be3",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
